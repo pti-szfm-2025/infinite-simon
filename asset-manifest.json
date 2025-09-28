@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infinite-simon/static/css/main.d1e57121.css",
+    "main.js": "/infinite-simon/static/js/main.c54e9b20.js",
+    "static/js/453.bfee5986.chunk.js": "/infinite-simon/static/js/453.bfee5986.chunk.js",
+    "index.html": "/infinite-simon/index.html",
+    "main.d1e57121.css.map": "/infinite-simon/static/css/main.d1e57121.css.map",
+    "main.c54e9b20.js.map": "/infinite-simon/static/js/main.c54e9b20.js.map",
+    "453.bfee5986.chunk.js.map": "/infinite-simon/static/js/453.bfee5986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e57121.css",
+    "static/js/main.c54e9b20.js"
+  ]
+}
